@@ -2,6 +2,7 @@
   "posts": [{
       "loc": "about.md",
       "title": "Hii",
+      "description": "ACuteWoof",
       "avatar": "https://github.com/acutewoof.png",
       "content":
         "About this blog and what this all about."
