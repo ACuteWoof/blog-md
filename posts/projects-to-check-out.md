@@ -2,7 +2,7 @@
 
 Here is a quick list of some useful and cool projects with their links (in no particular order):
 
-- [Nuclear.js](https://nuclear.js.org): Music player
+- [Tauon Music Box](https://github.com/Taiko2k/TauonMusicBox): Music player for Linux and Windows
 
 - [Monkeytype](https://monkeytype.com): Typing test
 
@@ -16,7 +16,7 @@ Here is a quick list of some useful and cool projects with their links (in no pa
 
 - [Metro](https://retromusic.app/): Music player for Android
 
-- [Tauon Music Box](https://github.com/Taiko2k/TauonMusicBox): Music player for Linux
+- [Nuclear.js](https://nuclear.js.org): Music player
 
 - [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/): Free collection of programming books
 
