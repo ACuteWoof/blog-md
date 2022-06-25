@@ -4,13 +4,15 @@
       "loc": "about",
       "title": "Hii",
       "avatar": "https://github.com/acutewoof.png",
-      "content": "About this blog and what this all about."
+      "content": "About this blog and what this all about.",
+      "category": "Introduction"
     },
     {
       "loc": "projects-to-check-out",
       "title": "Awesome FOSS Projects",
       "avatar": "https://github.com/acutewoof.png",
-      "content": "A list of free and open source projects that are worth checking out."
+      "content": "A list of free and open source projects that are worth checking out.",
+      "category": "software"
     }
   ]
 }
