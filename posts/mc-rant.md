@@ -1,3 +1,5 @@
+<img src="https://images-ext-2.discordapp.net/external/TGfHDrC_vGVRFxUOCxeeN-b7L9aRZXE-i1xkn7VwKek/https/pbs.twimg.com/media/FVzkZGdWIAAQqDD.jpg" />
+
 # Microsoft is proving again that it doesn't deserve Minecraft.
 
 Mojang has announced the details for the new Minecraft release - 1.19, and spoiler alert: *I absolutely hate this.*
