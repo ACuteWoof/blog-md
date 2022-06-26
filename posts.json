@@ -1,11 +1,11 @@
 {
   "posts": [
     {
-      "loc": "about",
-      "title": "Hii",
+      "loc": "mc-rant",
+      "title": "Microsoft proving that it doesn't deserve Mojang",
       "avatar": "https://github.com/acutewoof.png",
-      "content": "About this blog and what this all about.",
-      "category": "introduction"
+      "content": "Mojang has announced the details for the new Minecraft release - 1.19, and it isn't good.",
+      "category": "minecraft"
     },
     {
       "loc": "projects-to-check-out",
