@@ -30,9 +30,9 @@ Now you might start to see how this unfolds. Bedrock edition has chat (signs and
 
 You thought that sucks? It gets worse.
 
-On Bedrock editions, players can get banned from the entire game from these chat reports. This is NOT what I call a sandbox game. Like- why ban someone from even accessing their single player worlds for breaking the rules in some multiplayer server?
+On Minecraft Bedrock edition, players can get banned from the entire game from these chat reports. This is NOT what I call a sandbox game. Like- why ban someone from even accessing their single player worlds for breaking the rules in some multiplayer server?
 
-Oh and the players have to manually cancel their realms subscription after they get banned, till that, they'll basically be donating Microsoft for literally nothing.
+Oh and the players have to manually cancel their realms subscription after they get banned, till that, they'll basically be donating to Microsoft for literally nothing.
 
 #### Okay, these are on Bedrock edition, Java is still fine right? i.e they literally said they won't affect the default Java gameplay.
 
