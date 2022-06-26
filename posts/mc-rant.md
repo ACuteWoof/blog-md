@@ -6,7 +6,7 @@ Mojang has announced the details for the new Minecraft release - 1.19, and spoil
 
 Now. Keep these in mind:
 
-- Minecraft is marketted as a sandbox game.
+- Minecraft is marketed as a sandbox game.
 
 - Mojang develops Minecraft and it was bought by Microsoft in 2017.
 
