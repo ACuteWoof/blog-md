@@ -10,7 +10,7 @@ Here is a quick list of some useful and cool projects with their links (in no pa
 
 - [State Pool](https://yezyilomo.github.io/state-pool/): Global state management library for React
 
-- [XFCE Theme Saver](https://github.com/MetaStag/xfce-theme-saver): Configuration archiver
+- [Spotify Wallpaper Setter (personal project)](https://gist.github.com/ACuteWoof/5edb0ac6f7cddb7d9582356aec62d714): Set's wallpaper according to the currently playing song. For Linux systems that use XOrg.
 
 - [Mark Text](https://github.com/marktext/marktext): Markdown editor
 
