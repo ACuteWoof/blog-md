@@ -10,7 +10,7 @@ Now. Keep these in mind:
 
 - Minecraft is marketed as a sandbox game.
 
-- Mojang develops Minecraft and it was bought by Microsoft in 2017.
+- Mojang develops Minecraft and it was bought by Microsoft in 2014.
 
 - The Java edition of the game has mostly remained uninfluenced by Microsoft, meanwhile Microsoft tried to promote its edition of Minecraft, called Minecraft Bedrock, and that was far from what Minecraft originally was.
 
